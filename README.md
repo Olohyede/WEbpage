@@ -1,11 +1,11 @@
-# 🌐 GRAX - Portfolio Webpage
+🌐 GRAX - Portfolio Webpage
 
 A simple and responsive **portfolio webpage** built using **HTML, CSS, and JavaScript**.  
 It features a clean layout, responsive navigation bar, and a contact form with basic validation.
 
 ---
 
-## 🚀 Features
+🚀 Features
 - Responsive design for mobile and desktop
 - Toggle navigation menu for smaller screens
 - Contact form validation using JavaScript
@@ -14,9 +14,8 @@ It features a clean layout, responsive navigation bar, and a contact form with b
 
 ---
 
-## 🧠 What I Learned
+🧠 What I Learned
 While building this project, I practiced:
 - DOM manipulation and form validation in JavaScript
-- Responsive layout design using **Flexbox**
 - Navigation toggle menus for mobile views
 - Using external fonts and icon libraries (Google Fonts, Font Awesome)
